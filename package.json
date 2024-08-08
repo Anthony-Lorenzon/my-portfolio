@@ -1,17 +1,21 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://Anthony-Lorenzon.github.io/my-portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Anthony-Lorenzon/my-portfolio.git",
   "author": "Anthony-Lorenzon <alorenzon2006@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
