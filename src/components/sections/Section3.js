@@ -8,7 +8,7 @@ const Section3 = () => {
       <h2>Projects</h2>
       <div className="cards">
         <div className="project-card">
-          <img src="./images/tictactoe.png" alt="placeholder2 img"></img>
+          <img src="./images/tictactoe.PNG" alt="tictactoe img"></img>
           <h3>Tic-Tac-Toe</h3>
           <p>Good old fashion game of Tic-Tac-Toe</p>
           <div className='backgroundcolor'>
@@ -34,7 +34,7 @@ const Section3 = () => {
           </div>
         </div>
         <div className="project-card">
-          <img src="./images/placeholder3.png" alt="placeholder3 img"></img>
+          <img src="./images/placeholder3.PNG" alt="placeholder3 img"></img>
           <h3>Placeholder Project #3</h3>
           <p>placeholder 3 description</p>
           <div className='backgroundcolor'>
