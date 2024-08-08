@@ -9,7 +9,7 @@ const Section2 = () => {
       <h3 className="section2-h3">Coding skills</h3>
       <div className="grid-container">
       <div className="grid-item">
-          <img src="/images/htmllogo.png"alt="HTML Icon" className="icon-grid"/>
+          <img src="./images/htmllogo.png"alt="HTML Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
           <img src="./images/jslogo.png"alt="JS Icon" className="icon-grid"/>
