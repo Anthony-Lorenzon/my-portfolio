@@ -5,11 +5,10 @@ const FixedNavbar = () => {
   return (
     <nav className="fixed-navbar">
       <div className="navbar-links">
-        <a href="#section1">Section 1</a>
-        <a href="#section2">Section 2</a>
-        <a href="#section3">Section 3</a>
-        <a href="#section4">Section 4</a>
-        <a href="#section5">Section 5</a>
+        <a href="#section1">Home</a>
+        <a href="#section2">About me</a>
+        <a href="#section3">Projects</a>
+        <a href="#section4">Contact me</a>
       </div>
     </nav>
   );
