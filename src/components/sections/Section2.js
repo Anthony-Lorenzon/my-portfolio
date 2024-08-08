@@ -12,19 +12,19 @@ const Section2 = () => {
           <img src="/images/htmllogo.png"alt="HTML Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
-          <img src="/images/jslogo.png"alt="JS Icon" className="icon-grid"/>
+          <img src="./images/jslogo.png"alt="JS Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
-          <img src="/images/csslogo.png"alt="CSS Icon" className="icon-grid"/>
+          <img src="./images/csslogo.png"alt="CSS Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
-          <img src="/images/mongodb.png"alt="MongoDB Icon" className="icon-grid"/>
+          <img src="./images/mongodb.png"alt="MongoDB Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
-        <img src="/images/reactlogo.png"alt="React Icon" className="icon-grid"/>
+        <img src="./images/reactlogo.png"alt="React Icon" className="icon-grid"/>
       </div>
       <div className="grid-item">
-      <img src="/images/vscode.png"alt="VS Code Icon" className="icon-grid"/>
+      <img src="./images/vscode.png"alt="VS Code Icon" className="icon-grid"/>
       </div>
     </div>
     </div>

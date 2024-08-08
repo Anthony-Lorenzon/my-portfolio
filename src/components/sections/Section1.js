@@ -26,7 +26,7 @@ const Section1 = () => {
             rel="noopener noreferrer"
           >
             <img
-              src="/images/linkedin.png"
+              src="./images/linkedin.png"
               alt="LinkedIn Icon"
               className="icon"
             />
@@ -37,7 +37,7 @@ const Section1 = () => {
             rel="noopener noreferrer"
           >
             <img
-              src="/images/githubicon.png"
+              src="./images/githubicon.png"
               alt="Github Icon"
               className="icon"
             />
