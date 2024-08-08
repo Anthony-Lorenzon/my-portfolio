@@ -4,7 +4,7 @@ import "./SectionStyle.css"; // Add any specific styles for this section if need
 const Section1 = () => {
 
   const openResume = () => {
-    window.open('/images/resume.pdf', '_blank');
+    window.open('./images/resume.pdf', '_blank');
   };
 
 
@@ -12,7 +12,7 @@ const Section1 = () => {
     <div id="section1" className="section">
       <div className="text-content">
         <img
-          src="/images/computer.png"
+          src="./images/computer.png"
           alt="Computer img"
           className="computerpicture"
           height="300px"
