@@ -21,7 +21,7 @@ const Section1 = () => {
         <p>Hi, I'm Anthony Lorenzon. A passionate Web Developer</p>
         <div className="links">
           <a
-            href="https://www.linkedin.com/in/anthony-l-6b022a23b/"
+            href="https://www.linkedin.com/in/anthony-lorenzon/"
             target="_blank"
             rel="noopener noreferrer"
           >

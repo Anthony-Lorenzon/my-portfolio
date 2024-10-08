@@ -5,7 +5,7 @@ const Section2 = () => {
   return (
     <div id="section2" className="section">
       <h2 className="section2-h2">About me</h2>
-      <p className="section2-paragraph">Hello! I’m Anthony. I recently completed a web development bootcamp, transitioning from a finance career to tech. With a degree in finance and experience in data analysis, I’ve developed a strong foundation in web technologies like JavaScript, React, and Node.js. I’m excited to leverage my analytical skills in building dynamic and responsive web applications and look forward to new opportunities in tech.</p>
+      <p className="section2-paragraph">Hi, I'm Anthony Lorenzon! After earning my Bachelor of Commerce degree with a major in Finance, I transitioned into web development and completed a Full-Stack Web Development Diploma at Concordia University. I'm skilled in frontend and backend technologies like HTML, CSS, JavaScript, React, Node.js, and MongoDB. I’m excited about growing my skills, learning new technologies, and contributing to meaningful projects. With my background in finance and development, I bring a unique perspective to problem-solving.</p>
       <h3 className="section2-h3">Coding skills</h3>
       <div className="grid-container">
       <div className="grid-item">
